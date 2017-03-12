@@ -19,10 +19,15 @@ carID，x坐标，y坐标，转向角度，车速(m/s)
 
 例如：car1,10,20,30,1
 #启动程序
+
 cd进入MoonBuggy目录下
+
 >sbt
+
 >compile
+
 >run
+
 等待下载依赖，启动Main。
 
 #其他
